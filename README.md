@@ -55,12 +55,11 @@ This is my **first end-to-end Business Analytics project**, created as part of m
 ---
 
 
-## 📷 Dashboard Preview
 
-> Add your dashboard screenshot inside the **images** folder and uncomment the line below.
 
-```markdown
-![Finance Dashboard](images/dashboard.png)
+## 📸 Dashboard Preview
+
+![Finance & Budget Performance Dashboard](image.png)
 ```
 
 ---
