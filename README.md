@@ -60,9 +60,7 @@ This is my **first end-to-end Business Analytics project**, created as part of m
 ## 📸 Dashboard Preview
 
 ![Finance & Budget Performance Dashboard](image.png)
-```
-
----
+``
 
 ## 🌐 Live Dashboard
 
